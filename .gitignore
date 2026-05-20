@@ -10,3 +10,7 @@ __pycache__/
 # Environment and OS
 .env
 .DS_Store
+
+# Claude and Codex
+CLAUDE.md
+AGENTS.md
